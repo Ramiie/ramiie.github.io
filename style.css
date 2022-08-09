@@ -77,7 +77,18 @@ color: #333;
   font-size: 19px;
 }
 
-/*Expertise Section*/
+/*Certificate Section*/
+
+.certificate {
+  padding: 10px 0px;
+  background-color: #3338be;
+  margin: 0;
+  text-align: center;
+}
+
+.certificate h2{
+  font-size: 40px;
+}
 
 .cards {
   background-color: #3338be;
@@ -90,17 +101,6 @@ color: #333;
 .cards img {
   width: 30%;
   margin-top: 10px;
-}
-
-#expertise {
-  padding: 10px 0px;
-  background-color: #3338be;
-  margin: 0;
-  text-align: center;
-}
-
-.certificate h2{
-  font-size: 40px;
 }
 
 
