@@ -143,3 +143,9 @@ color: #333;
   margin-left: 20px;
 }
 
+@media only screen and (min-width: 100px) and (max-width: 1050px) and (orientation: landscape) {
+
+  .cards img{
+    width: 20rem;
+  }
+}
