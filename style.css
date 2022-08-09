@@ -122,6 +122,12 @@ color: #333;
   margin-left: 20px;
 }
 
+.footer h3{
+  font-size: 20px;
+  text-align: left;
+  margin-left: 20px;
+}
+
 .footer a{
   font-size: 20px;
   margin-bottom: 0px;
@@ -140,11 +146,13 @@ color: #333;
   text-decoration: none;
 }
 
-.footer h3{
-  font-size: 20px;
-  text-align: left;
-  margin-left: 20px;
-}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .footer {
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 0px;}
+  }
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
