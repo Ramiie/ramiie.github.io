@@ -102,6 +102,7 @@ color: #333;
 
 .cards img {
   width: 33rem;
+  height: auto;
   margin-top: 10px;
 }
 
