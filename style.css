@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Libre Baskerville', sans-serif;
-  background-color: #c0c3c7
+  background-color: #c0c3c7;
 }
 
 img {
@@ -83,17 +83,17 @@ color: #333;
   background-color: #3338be;
   display: flex;
   flex-wrap: wrap;
-  padding: 10px 10px;
+  padding: 10px 0px;
   max-width: 100%;
 }
 
 .cards img {
-  width: 35rem;
+  width: 30%;
   margin-top: 10px;
 }
 
 #expertise {
-  padding: 10px 10px;
+  padding: 10px 0px;
   background-color: #3338be;
   margin: 0;
   text-align: center;
