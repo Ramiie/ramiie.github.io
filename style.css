@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: 'Libre Baskerville', sans-serif;
   background-color: #c0c3c7;
+  font-display: swap;
 }
 
 img {
@@ -67,7 +68,7 @@ color: #333;
 .banner {
   background-color: #333;
   color: #fff;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
   font-size: 25px;
   font-style: wrap;
@@ -77,10 +78,10 @@ color: #333;
   font-size: 19px;
 }
 
-/*Certificate Section*/
+/*Expertise Section*/
 
 .certificate {
-  padding: 10px 0px;
+  padding: 40px 0px;
   background-color: #3338be;
   margin: 0;
   text-align: center;
@@ -90,11 +91,12 @@ color: #333;
   font-size: 40px;
 }
 
+
 .cards {
   background-color: #3338be;
   display: flex;
   flex-wrap: wrap;
-  padding: 10px 0px;
+  padding: 10px 10px;
   max-width: 100%;
 }
 
@@ -102,6 +104,7 @@ color: #333;
   width: 33rem;
   margin-top: 10px;
 }
+
 
 
 /*Footer Section*/
@@ -141,7 +144,6 @@ color: #333;
   text-align: left;
   margin-left: 20px;
 }
-
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
